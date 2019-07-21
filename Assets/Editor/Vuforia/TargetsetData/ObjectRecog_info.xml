@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2019-07-20 14:04:48" name="toy" targetId="a5e8ced483804547a623ff7c2f349e98" version="2.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2019-07-20 13:59:55" name="deckCards" targetId="473ebb81ed4e46f1830909ba5bcca261" version="2.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2019-07-20 13:55:00" name="punchingMachine" targetId="4d41520089e54890b867111026a3fd7b" version="2.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2019-07-20 13:48:14" name="mouse" targetId="aa1dc4ba6eaa4937891283cd0019fddf" version="2.0" />
+  </TargetSet>
+</QCARInfo>
